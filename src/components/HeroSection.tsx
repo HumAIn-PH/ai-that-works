@@ -31,8 +31,8 @@ const HeroSection = () => {
 
           {/* Headline */}
           <h1 className="text-4xl sm:text-5xl md:text-7xl font-bold leading-tight mb-6">
-            AI That Works &{" "}
-            <span className="text-gradient-gold">Grows Your Business</span>
+            The AI{" "}
+            <span className="text-gradient-gold">Business Accelerator</span>
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8 leading-relaxed">
@@ -43,9 +43,9 @@ const HeroSection = () => {
           {/* Key benefits quick list */}
           <div className="flex flex-wrap justify-center gap-3 mb-10">
             {[
-              "Hiring Playbooks in 1 Hour",
+              "Save 10+ Hrs/Week",
               "30 Days of Content in 1 Hour",
-              "Landing Pages in Minutes",
+              "AI Chatbots + SOP's Built Live",
             ].map((item) => (
               <span
                 key={item}

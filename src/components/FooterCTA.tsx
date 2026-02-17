@@ -19,7 +19,7 @@ const FooterCTA = () => {
             Secure your spot for the most practical AI workshop in Metro Manila.
           </p>
           <motion.a
-            href="https://forms.gle/"
+            href="https://forms.gle/EcEK3MBDShnfXejD6"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}
