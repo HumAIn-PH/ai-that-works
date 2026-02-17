@@ -46,7 +46,7 @@ const PricingSection = () => {
               )}
             </ul>
             <motion.a
-              href="#register"
+              href="https://forms.gle/EcEK3MBDShnfXejD6"
               whileHover={{ scale: 1.03 }}
               whileTap={{ scale: 0.98 }}
               className="block w-full bg-gradient-gold text-primary-foreground font-bold text-center py-3.5 rounded-lg"
