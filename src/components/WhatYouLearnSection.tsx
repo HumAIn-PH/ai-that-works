@@ -3,29 +3,29 @@ import { Megaphone, Mail, Bot, BarChart3, Sparkles } from "lucide-react";
 
 const modules = [
   {
-    icon: Megaphone,
-    title: "Marketing & Content Creation",
-    detail: "30 days of social media content in just 1 hour",
-  },
-  {
-    icon: Mail,
-    title: "Sales & Copywriting",
-    detail: "Emails, proposals, and scripts that actually convert",
+    icon: BarChart3,
+    title: "Manual Work Efficiency",
+    detail: "Replace 10+ hours of manual work weekly",
   },
   {
     icon: Bot,
-    title: "Customer Service & Operations",
-    detail: "Chatbots, SOPs, and training docs — automated",
+    title: "AI Chatbot Creation",
+    detail: "Create AI Chatbots (Custom GPTs / Custom Gems)",
   },
   {
-    icon: BarChart3,
-    title: "Business Strategy & Planning",
-    detail: "SWOT analysis, competitive research with AI power",
+    icon: Megaphone,
+    title: "Social Media Strategy",
+    detail: "Generate 30 days of social media content",
+  },
+  {
+    icon: Mail,
+    title: "Departmental SOPs",
+    detail: "Build your own departmental standard operating procedures",
   },
   {
     icon: Sparkles,
-    title: "Your Custom AI Workflow",
-    detail: "Personalized to YOUR specific business needs",
+    title: "Custom AI Workflows",
+    detail: "Design custom AI business workflows",
   },
 ];
 

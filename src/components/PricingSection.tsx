@@ -31,7 +31,7 @@ const PricingSection = () => {
               BEST VALUE
             </div>
             <p className="text-muted-foreground font-medium mb-2">Early Bird</p>
-            <p className="text-xs text-muted-foreground mb-4">On or before Feb 22, 2026</p>
+            <p className="text-xs text-muted-foreground mb-4">On or before Feb 25, 2026</p>
             <div className="flex items-baseline gap-1 mb-6">
               <span className="text-5xl font-bold text-gradient-gold">₱2,500</span>
             </div>
@@ -64,7 +64,7 @@ const PricingSection = () => {
             className="bg-gradient-card border border-border rounded-2xl p-8"
           >
             <p className="text-muted-foreground font-medium mb-2">Regular</p>
-            <p className="text-xs text-muted-foreground mb-4">After Feb 22, 2026</p>
+            <p className="text-xs text-muted-foreground mb-4">After Feb 25, 2026</p>
             <div className="flex items-baseline gap-1 mb-6">
               <span className="text-5xl font-bold text-foreground">₱3,500</span>
             </div>

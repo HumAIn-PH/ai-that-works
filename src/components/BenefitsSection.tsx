@@ -2,11 +2,11 @@ import { motion } from "framer-motion";
 import { FileText, Rocket, Globe, MessageSquare, Cpu } from "lucide-react";
 
 const benefits = [
-  { icon: FileText, text: "Create full customized Hiring Playbooks in an hour" },
-  { icon: Rocket, text: "Create project proposals in half a day" },
-  { icon: Cpu, text: "Access to Custom GPT's / Custom Gems" },
-  { icon: Globe, text: "Create full landing pages / web pages in minutes" },
-  { icon: MessageSquare, text: "Build your own Facebook Messenger Chatbot" },
+  { icon: FileText, text: "Replace 10+ hours of manual work weekly" },
+  { icon: Cpu, text: "Create AI Chatbots (Custom GPT's / Custom Gems)" },
+  { icon: Globe, text: "Generate 30 Days of Social Media Content" },
+  { icon: MessageSquare, text: "Build your own Departmental SOP's" },
+  { icon: Rocket, text: "Design Custom AI Business Workflows" },
 ];
 
 const BenefitsSection = () => {

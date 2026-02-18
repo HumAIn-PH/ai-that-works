@@ -29,7 +29,7 @@ const FooterCTA = () => {
             Register Now <ArrowRight className="w-5 h-5" />
           </motion.a>
           <p className="text-muted-foreground text-sm mt-6">
-            Questions? Message us on Facebook or email us.
+            Questions? Message us on <a href="https://www.facebook.com/HumAInPH" target="_blank" rel="noopener noreferrer" className="text-gradient-gold hover:underline">Facebook</a>.
           </p>
         </motion.div>
       </div>
