@@ -14,7 +14,7 @@ const AboutHumAInSection = () => {
             HumAIn: Human-Led, AI-Powered Innovation
           </h3>
           <p className="text-foreground leading-relaxed">
-            Founded in August 2025, HumAIn was established with a singular vision: to harness the
+            Founded in 2025, HumAIn was established with a singular vision: to harness the
             transformative power of artificial intelligence while keeping human insight at its core.
             Our mission is to create advanced AI solutions that enhance, rather than replace,
             human capabilities, fostering a future where technology amplifies our potential.
@@ -44,11 +44,12 @@ const AboutHumAInSection = () => {
                 </div>
                 <div>
                   <p className="text-lg font-bold">Eusebio Yu</p>
+                  <p className="text-lg font-bold">Co-Founder/CEO HumAIn</p>
                   <p className="text-muted-foreground mt-2">
-                    With 24 years of experience, Eusebio is a recognized expert in building
-                    sophisticated enterprise systems. His extensive background spans HRIS,
-                    cutting-edge IoT integrations, and smart city deployments, providing a robust
-                    technical foundation for HumAIn's innovative solutions.
+                    A veteran technologist with 25 years of experience, Eusebio serves as the technical anchor for HumAIn’s capability-building framework. His career spans the evolution of enterprise tech—from foundational HRIS and IoT networks to today’s Generative AI agents.
+                  </p>
+                  <p className="text-muted-foreground mt-2">
+                    Sebs creates value by demystifying complex technologies. He has successfully deployed Intelligent Document Processing to free up human capital from administrative burden and developed Smart AI Assistants that revolutionize user interaction. His role in this engagement is to transfer this "architect-level" knowledge to you, ensuring your company can sustainably manage and grow its own AI capabilities.
                   </p>
                 </div>
               </div>
@@ -72,11 +73,12 @@ const AboutHumAInSection = () => {
                 </div>
                 <div>
                   <p className="text-lg font-bold">Gracier Yu</p>
+                  <p className="text-lg font-bold">Co-Founder/CTO HumAIn</p>
                   <p className="text-muted-foreground mt-2">
-                    Gracier brings 24 years of expertise in large-scale ERP implementations and
-                    custom software development. Her deep understanding of business processes and
-                    agile development ensures that HumAIn's offerings are not only powerful but
-                    also practical and seamlessly integrated into existing workflows.
+                    Enterprise Architect with 25 years transforming government and enterprise operations through strategic technology initiatives. Gracier has delivered measurable outcomes: 67x performance gains, 30% cost reductions, and 40% reduction in administrative overhead through intelligent automation.
+                  </p>
+                  <p className="text-muted-foreground mt-2">
+                    With 50+ digital transformation projects delivered throughout her career, she now specializes in agentic AI systems and smart prototyping—coaching cross-functional teams on AI-powered workflows that amplify human capability. Gracier embeds AI literacy into organizational DNA.
                   </p>
                 </div>
               </div>
